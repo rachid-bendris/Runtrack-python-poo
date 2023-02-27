@@ -13,7 +13,7 @@ class Animal:
 mon_animal = Animal()
 mon_animal.vieillir()
 mon_animal.nommer("")
-mon_animal = Animal()
+
 
 print("Age initial de l'animal :", mon_animal.age)
 
